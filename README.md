@@ -1,5 +1,4 @@
 
-````
 # 🐍 Python Projects Collection  
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)  
