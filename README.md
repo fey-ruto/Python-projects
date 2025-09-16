@@ -24,7 +24,7 @@ This repository is a collection of Python programs I’ve created while learning
 | **guessing_game.py** | Console-based number guessing game 🎲. |
 | **income_tax.py** | Simple income tax calculator 💰. |
 | **person.py** | Defines a basic Person class with attributes and methods 👤. |
-| **README.md** | This documentation file. |
+| **README.md** | This is a documentation file. |
 
 ---
 
@@ -32,15 +32,13 @@ This repository is a collection of Python programs I’ve created while learning
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-````
-
+   git clone https://github.com/fey-ruto/python_projects.git
+   ```
 2. Navigate into the repo folder:
 
    ```bash
-   cd your-repo-name
+   cd python_projects
    ```
-
 3. Run any script with Python, e.g.:
 
    ```bash
@@ -55,10 +53,8 @@ This repository is a collection of Python programs I’ve created while learning
 * Each file runs independently.
 * Future improvements may include unit tests, refactoring, and combining scripts into larger applications.
 
-```
 
-👉 Do you want me to also **add small example runs (sample input/output)** under each project description, so visitors can see what happens before running the scripts?
-```
+
 
 
 
